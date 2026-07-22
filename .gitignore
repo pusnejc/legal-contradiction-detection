@@ -1,0 +1,19 @@
+# Course material
+train.jsonl
+test.jsonl
+Instructions.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Model / training artifacts produced by running the notebook
+results_*/
+final_*/
+models/
+val_sentence_embedder*/
+test_sentence_embedder/
+*.json
